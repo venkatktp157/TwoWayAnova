@@ -1,4 +1,3 @@
---upgrade
 streamlit
 pandas
 numpy

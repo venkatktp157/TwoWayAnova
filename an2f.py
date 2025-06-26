@@ -14,9 +14,8 @@ from statsmodels.stats.multicomp import pairwise_tukeyhsd, MultiComparison
 import statsmodels.api as sm
 from scipy import stats
 from scipy.stats import f
-import warnings
-
-warnings.filterwarnings('ignore')
+# import warnings
+# warnings.filterwarnings('ignore')
 
 # Set page config
 st.set_page_config(page_title="Two-Way ANOVA Analyzer", layout="wide")
