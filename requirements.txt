@@ -1,8 +1,7 @@
+statsmodels==0.14.0
+scipy==1.11.4
 streamlit
-pandas
-numpy
-scipy
-matplotlib
-openpyxl
 seaborn
-statsmodels
+matplotlib
+pandas
+
